@@ -1,0 +1,11 @@
+#First you need to install the wikipedia api 
+
+pip3 install wikipedia-api
+
+#You can also refere the following link
+#https://pypi.org/project/Wikipedia-API/
+
+#for testing 
+#type in the following command 
+
+import wikipediaapi
