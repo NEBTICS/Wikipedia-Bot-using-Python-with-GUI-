@@ -3,7 +3,7 @@
 """
 Created on Sat Jul 18 10:39:54 2020
 
-@author: smithbarbose
+@author: smith barbose & manan dodia 
 """
 # first importing librarys
 
