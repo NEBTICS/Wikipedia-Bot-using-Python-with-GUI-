@@ -1,2 +1,2 @@
-# Wikipedia-Bot-using-Python-with-GUI-
+# Wikipedia-Bot-using-Python-
 Just a simple python project for bignners 
